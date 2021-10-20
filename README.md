@@ -1,4 +1,5 @@
-
+### Abra o Prompt de Comando 
+### Digite Cd c:/diretorio-do-projeto  
 ### Para instalar as dependencias do projeto `npm install`
 ### Para inicializar o projeto `npm start`
 
