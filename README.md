@@ -1,7 +1,7 @@
 
-### `yarn start`
+### Para inicializar o projeto `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Construção do app no modo de desenvolvimento.
+Abrar [http://localhost:3000](http://localhost:3000) para Visualisar no Navegador.
 
 
